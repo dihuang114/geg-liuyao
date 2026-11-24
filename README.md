@@ -19,10 +19,25 @@
 
 | 平台 | 文件 | 使用方法 |
 | --- | --- | --- |
-| Windows x64 安装版 | `GEGLiuyao-1.0.0-Setup.exe` | 下载后运行安装程序 |
-| Windows x64 完整版 | `GEGLiuyao-1.0.0-Windows-x64.zip` | 解压整个压缩包，再运行 `Liuyao.exe` |
-| 安卓正式版 | `GEGLiuyao-1.0.0-Android.apk` | 下载 APK 后在设备上打开安装 |
+| Windows x64 安装版 | `GEGLiuyao-1.0.1-Setup.exe` | 下载后运行安装程序 |
+| Windows x64 完整版 | `GEGLiuyao-1.0.1-Windows-x64.zip` | 解压整个压缩包，再运行 `Liuyao.exe` |
+| 安卓正式版 | `GEGLiuyao-1.0.1-Android.apk` | 下载 APK 后在设备上打开安装 |
 
 ## 问题反馈
 
 可以在本仓库的 **Issues** 提交反馈，也可以通过软件关于页联系。
+
+## 第三方开源项目与许可
+
+| 功能 | 项目 | 许可 |
+| --- | --- | --- |
+| 历法 | lunar-javascript（6tail） | MIT |
+| XLSX 解压 | fflate（Arjun Barrett） | MIT |
+| 截图 | html2canvas、css-line-break、text-segmentation、base64-arraybuffer（Niklas von Hertzen） | MIT |
+| 截图库内嵌辅助代码 | Microsoft TypeScript helpers | Apache License 2.0 |
+| 宋体字形 | Noto Serif SC（Adobe、Google） | SIL Open Font License 1.1 |
+| 安卓运行环境和文件分享 | Capacitor Core、Android、Filesystem、Share（Ionic / Drifty） | MIT |
+| 安卓兼容组件 | AndroidX（Android Open Source Project） | Apache License 2.0 |
+| Windows 桌面运行环境 | Electron | MIT |
+
+各平台所含组件的版权声明与许可全文可在「设置 → 关于 → 开源许可」查看。

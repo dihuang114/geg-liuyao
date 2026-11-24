@@ -13,6 +13,8 @@
 
 ## 下载安装
 
+**在线使用** [鸽阁六爻网页版](https://dihuang.vip/liuyao)
+
 [前往 Releases 下载](https://github.com/dihuang114/geg-liuyao/releases/latest)，在对应版本的 **Assets** 中选择文件。
 
 | 平台 | 文件 | 使用方法 |
